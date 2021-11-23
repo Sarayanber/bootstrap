@@ -1,0 +1,47 @@
+.navbar 
+{
+    background-color: gray;
+
+
+}
+
+
+.lang {
+    background-color: aqua;
+    height: 50px;
+    margin-top: 10px;
+
+    }
+#bovenbalk
+    {   
+    background-color: rgb(28, 70, 209);
+    height: 150px;
+    }
+
+#onderbalk
+
+    {
+    background-color: goldenrod;
+    }
+
+
+#balk3
+    {
+    background-color: gray;
+    height: 50px
+
+    }
+.carousel-inner{
+
+    height: 500px;
+    
+}
+
+
+.kort {
+    background-color: bisque;
+    height: 300px;
+    margin-top: 10px;
+    border-style: solid;
+    border-color: rgb(255, 255, 255);
+    }
